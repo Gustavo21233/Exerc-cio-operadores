@@ -12,3 +12,5 @@ SyntaxError: Unexpected token '{'
 ←[90m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)←[39m
 ←[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)←[39m
 ←[90m    at node:internal/main/run_main_module:17:47←[39m
+
+##EXERCÍCIO CORRIGIDO COM ÊXITO
