@@ -1,7 +1,7 @@
 # Exercicio-operadores
  exercicio dio que deu errado
  
-##o exercicio deu o seguinte erro:
+## o exercicio deu o seguinte erro:
 
 SyntaxError: Unexpected token '{'
 ←[90m    at Object.compileFunction (node:vm:352:18)←[39m
@@ -13,4 +13,8 @@ SyntaxError: Unexpected token '{'
 ←[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)←[39m
 ←[90m    at node:internal/main/run_main_module:17:47←[39m
 
-##EXERCÍCIO CORRIGIDO COM ÊXITO
+## EXERCÍCIO CORRIGIDO COM ÊXITO
+o primeiro erro foi esquecer de colocar a palavra reserva "function" antes da função
+o segundo erro foi esquecer de declarar a variavel num2 dentro do objeto
+
+### sintam-se livre pra analizar 
